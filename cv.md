@@ -28,12 +28,10 @@
 I have no projects that I can show.
 
 ---
-
 ### Education:
-
 * BSU (Belarusian state university)
 * Belhard. I studied Laravel.
 * Geekbrains - HTML&CSS
 ---
 #### English level A2
-I've studied English at the Belhard courses. 
+I've studied English at the Belhard courses.
