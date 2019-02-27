@@ -17,3 +17,23 @@
 * Laravel
 * GIT
 ---
+### Code examples:
+1. [Warmup converts Celsius to Fahrenheit](https://github.com/Rostia/warmup)
+2. [Sudoku solution](https://github.com/Rostia/sudoku)
+3. [Count zero factorial](https://github.com/Rostia/advanced-zeros)
+4. [Check brackets](https://github.com/Rostia/brackets)
+5. [Money Exchange](https://github.com/Rostia/money-exchange)
+---
+### Experience:
+I have no projects that I can show.
+
+---
+
+### Education:
+
+* BSU (Belarusian state university)
+* Belhard. I studied Laravel.
+* Geekbrains - HTML&CSS
+---
+#### English level A2
+I've studied English at the Belhard courses. 
