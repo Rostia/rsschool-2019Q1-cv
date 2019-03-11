@@ -2,3 +2,10 @@
     width: 1200px;
     margin: 0 auto;
 }
+.footer{
+    background-color: rgb(58, 61, 61);
+    padding: 10px;
+}
+.footer--title{
+    color: #ffffff;
+}
