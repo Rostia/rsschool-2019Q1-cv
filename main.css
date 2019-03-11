@@ -9,3 +9,28 @@
 .footer--title{
     color: #ffffff;
 }
+.header{
+    background-color: rgb(58, 61, 61);
+    padding: 10px;
+}
+.menu{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    list-style: none;
+}
+.menu--link{
+    padding: 10px;
+
+    font-size: 14px;
+
+    color: #ffffff;
+    text-decoration: none;
+}
+.menu--link:hover{
+    color: #000000;
+    background-color: #fff;
+}
